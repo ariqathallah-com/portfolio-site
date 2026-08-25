@@ -1,6 +1,6 @@
 ---
-title: "A Cerdikiawan and His Three Stories"
-date: "2026-08-26"
+title: "A Cerdikiawan and His Three Stories (unfinished)"
+date: "2026-08-24"
 excerpt: "A bit about my self and my story."
 tags: ["journey", "lessons"]
 ---
@@ -13,7 +13,7 @@ The ad shows ordinary people working around on small everyday problems with what
 
 I wasn’t sure what the right English word for it was. Is it cunning, ingenious, or resourceful? But I think I would go with resourceful, or maybe “a resourceful scholar” and I really relate to that idea.
 
-I know this breaks the flow of the story, but bear with me, this part matters. There’s a line from Steve Jobs’ 2005 Stanford commencement speech that stuck with me: “Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.” So here goes: no big deal, just three stories.
+I know this breaks the flow of the story, but bear with me, this part matters. There’s a line from [Steve Jobs’ 2005 Stanford commencement speech](https://youtu.be/UF8uR6Z6KLc) that stuck with me: “Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.” So here goes: no big deal, just three stories.
 
 One of the first moments in my life that I can remember clearly happened is when I joined a drum extracurricular at 4th grade. I remember I couldn’t do the basic hi-hat, snare, and kick pattern. I almost always kicked again on the third beat, because my muscles were still a bit stuck since it was the first time I’d ever played drums. 
 
