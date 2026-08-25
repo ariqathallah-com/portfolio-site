@@ -30,7 +30,7 @@ export default function Home() {
 
       {showCausath && (
         <div className="mb-8 mt-2 text-sm">
-          <p className="text-muted" style={{ color: '#9c9c9c' }}>
+          <p className="text-muted prose-story" style={{ color: '#9c9c9c' }}>
             Chess education platform for Indonesian chess players to improve their ELO.
           </p>
           <div className="flex flex-wrap mt-1 gap-x-1.5 text-sm" style={{ color: '#9c9c9c' }}>
