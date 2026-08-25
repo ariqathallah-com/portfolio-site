@@ -11,7 +11,7 @@ export default function Home() {
       </div>
 
       <p className="prose-story text-sm">
-        Currently, I'm building <Link href="https://instagram.com/caturcausath">Causath</Link>, a chess education platform for Indonesian chess player to imrpove their ELO. I'm not sure if you want to read about my <Link href="/stories">stories</Link>, but if so then go ahead.
+        Currently building <Link href="https://instagram.com/caturcausath">Causath</Link>, a chess education platform for Indonesian chess player to imrpove their ELO. I'm not sure if you want to read about my <Link href="/stories">stories</Link>, but if so then go ahead.
       </p>
     </div>
     
