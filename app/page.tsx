@@ -2,19 +2,29 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Home() {
   const [showCausath, setShowCausath] = useState(false);
 
   return (
-    <div className="py-8 text-[17px] leading-relaxed">
-      <h1 className="mb-0 text-xl font-semibold">Muhammad Ariq Athallah</h1>
+    <div className="py-8 text-[17px]">
+      <div className="min-h-[54px]">
+        <h1 className="text-xl font-semibold">Muhammad Ariq Athallah</h1>
 
-      <div className="mb-8 flex flex-wrap gap-x-1.5 text-sm">
-        <a href="https://instagram.com/ariqathallah" target="_blank" rel="noopener noreferrer">
-          Instagram
-        </a>
+        <div className="mb-6 flex flex-wrap gap-x-1.5 text-sm">
+          <a href="https://instagram.com/ariqathallah" target="_blank" rel="noopener noreferrer">
+            Instagram
+          </a>
+        </div>
       </div>
+
+      <Image
+        src="/images/1.webp"
+        width={1200}
+        height={600}
+        className="my-4 rounded"
+      />
 
       <p className="prose-story text-sm">
         Currently building{' '}

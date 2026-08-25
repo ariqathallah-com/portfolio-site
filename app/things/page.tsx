@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export const metadata = {
   title: 'Things',
@@ -7,9 +8,17 @@ export const metadata = {
 export default function ThingsPage() {
   return (
     <div className="py-8 text-[17px]">
-      <Link href="/" className="text-sm text-muted">← Home</Link>
+      <div className="min-h-[54px]">
+        <Link href="/" className="text-sm text-muted">← Home</Link>
+        <h1 className="mb-6 text-xl font-semibold">Things</h1>
+      </div>
 
-      <h1 className="mb-6 text-xl font-semibold">Things</h1>
+      <Image
+        src="/images/3.webp"
+        width={1200}
+        height={600}
+        className="my-4 rounded"
+      />
 
       <p className="prose-story mb-2 text-sm">
         Things I'm building now, and things I've built in the past.
