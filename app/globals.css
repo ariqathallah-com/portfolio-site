@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-body: 'Montserrat', sans-serif;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FFFFFF;
+  color: #555;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: #B5B5B5;
+}
+
+a:hover {
+  text-decoration-color: #111111;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #002FA7;
+  outline-offset: 3px;
+}
+
+/* Rendered markdown body for individual stories */
+.prose-story {
+  color: #111111;
+  line-height: 1.75;
+  color: #555;
+  font-weight: 300;
+  text-align: justify;
+}
+
+.prose-story p {
+  margin-bottom: 1.5em;
+}
+
+.prose-story h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+}
+
+.prose-story h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.75em;
+  margin-bottom: 0.5em;
+}
+
+.prose-story strong {
+  font-weight: 600;
+}
+
+.prose-story blockquote {
+  border-left: 2px solid #B5B5B5;
+  padding-left: 1.25em;
+  color: #555555;
+  font-style: italic;
+  margin: 1.5em 0;
+}
+
+.prose-story code {
+  font-family: ui-monospace, monospace;
+  background: #F3F3F3;
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.prose-story ul {
+  list-style-type: disc;
+  margin-bottom: 1.5em;
+  padding-left: 1.5em;
+}
+
+.prose-story ol {
+  list-style-type: decimal;
+  margin-bottom: 1.5em;
+  padding-left: 1.5em;
+}
+
+.prose-story li {
+  margin-bottom: 0.5em;
+}
+
+summary {
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
