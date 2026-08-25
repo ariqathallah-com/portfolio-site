@@ -20,7 +20,7 @@ export default function ThingsPage() {
           <summary className="cursor-pointer underline decoration-[#B5B5B5] underline-offset-2 hover:decoration-[#111111] font-medium">
             Causath (current)
           </summary>
-          <p className="mt-2 text-muted">
+          <p className="mt-2 text-muted prose-story">
             Chess education platform for Indonesian chess player to imrpove their ELO.
           </p>
           <div className="flex flex-wrap mt-1 mb-4 gap-x-1.5 text-sm">
@@ -38,7 +38,7 @@ export default function ThingsPage() {
           <summary className="cursor-pointer underline decoration-[#B5B5B5] underline-offset-2 hover:decoration-[#111111] font-medium">
             Tentu
           </summary>
-          <p className="mt-2 text-muted">Platform to help highschool students to learn more about university major.</p>
+          <p className="mt-2 text-muted prose-story">Platform to help highschool students to learn more about university major.</p>
           <div className="flex flex-wrap mt-1 mb-4 gap-x-1.5 text-sm">
             <a href="https://instagram.com/tentu.idn" target="_blank" rel="noopener noreferrer">Instagram</a>
           </div>
@@ -48,7 +48,7 @@ export default function ThingsPage() {
           <summary className="cursor-pointer underline decoration-[#B5B5B5] underline-offset-2 hover:decoration-[#111111] font-medium">
             BuildUp!
           </summary>
-          <p className="mt-2 text-muted">Platform to help students developing themselves through collaborations.</p>
+          <p className="mt-2 text-muted prose-story">Platform to help students developing themselves through collaborations.</p>
           <div className="flex flex-wrap mt-1 mb-4 gap-x-1.5 text-sm">
             <a href="https://instagram.com/buildup.id" target="_blank" rel="noopener noreferrer">Instagram</a>
           </div>
