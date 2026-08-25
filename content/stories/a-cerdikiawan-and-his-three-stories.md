@@ -23,17 +23,7 @@ I know it is not a good method (or maybe it is for a beginner?), but i felt grea
 
 [then the second event, idk what to tell in this part]
 
-[then the third event i remember is when i became a product manager intern]
-
-Then the third event I remember is when i become an intern of Product Management on one of a tech startup. There was a friend of mine there, Salahudin, and if you are reading this, thank you for making my day that day.
-
-So the story went from him asking, “how do you solve this?”. He is an engineer from the same company i worked, but different vertical, he works for promo team if i remember. 
-
-The problem was how to update a promo code in the backend, but not on the coding side, but more of a logic side. I never managed that, I was also not in the same vertical as him, so i don’t really have the basic. But again, something in my mind strikes me immediately, “what if you just add a new id at the back
-
-…
-
-He ended with something like, “wow you really are a product manager”, i know it was a basic task, but i got confident after what he said, and i felt… cerdikiawan again
+[then the third event, idk what to tell in this part]
 
 I probably should end this story the way Steve Jobs ended his speech, by looking back and explaining how these moments led to success, how “lucky” he was that the dots eventually connected. But I don’t think I can do that yet. This is still my first attempt at writing this down, and I haven’t lived far enough past these stories to know how they connect, or where they lead.
 
