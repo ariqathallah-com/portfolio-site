@@ -46,21 +46,25 @@ export default function ThingsPage() {
 
         <details>
           <summary className="cursor-pointer underline decoration-[#B5B5B5] underline-offset-2 hover:decoration-[#111111] font-medium">
-            Tentu
+            Startup projects
           </summary>
-          <p className="mt-2 text-muted prose-story">Platform to help highschool students to learn more about university major.</p>
+          <p className="mt-2 text-muted prose-story">I have made (with some of my friends) several startup projects, eventho none of them generate a total revenue of 1m idr, but I am still proud of them.</p>
           <div className="flex flex-wrap mt-1 mb-4 gap-x-1.5 text-sm">
-            <a href="https://instagram.com/tentu.idn" target="_blank" rel="noopener noreferrer">Instagram</a>
+            <a href="https://instagram.com/thestoryof.official" target="_blank" rel="noopener noreferrer">the story of</a>
+            <span>/</span>
+            <a href="https://instagram.com/tentu.idn" target="_blank" rel="noopener noreferrer">tentu</a>
+            <span>/</span>
+            <a href="https://instagram.com/buildup.id" target="_blank" rel="noopener noreferrer">BuildUp!</a>
           </div>
         </details>
 
         <details>
           <summary className="cursor-pointer underline decoration-[#B5B5B5] underline-offset-2 hover:decoration-[#111111] font-medium">
-            BuildUp!
+            A (discountinued) "passion" project
           </summary>
-          <p className="mt-2 text-muted prose-story">Platform to help students developing themselves through collaborations.</p>
+          <p className="mt-2 text-muted prose-story">I hate the naming of this section, but I have no other word in mind.</p>
           <div className="flex flex-wrap mt-1 mb-4 gap-x-1.5 text-sm">
-            <a href="https://instagram.com/buildup.id" target="_blank" rel="noopener noreferrer">Instagram</a>
+            <a href="https://instagram.com/amateur.learner" target="_blank" rel="noopener noreferrer">amateur learner</a>
           </div>
         </details>
       </div>
