@@ -18,6 +18,7 @@ export default function ThingsPage() {
         width={1200}
         height={600}
         className="my-4 rounded"
+        alt="Things"
       />
 
       <p className="prose-story mb-2 text-sm">

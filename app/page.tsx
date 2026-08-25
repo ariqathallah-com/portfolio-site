@@ -24,6 +24,7 @@ export default function Home() {
         width={1200}
         height={600}
         className="my-4 rounded"
+        alt="Home"
       />
 
       <p className="prose-story text-sm">

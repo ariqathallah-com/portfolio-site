@@ -23,6 +23,7 @@ export default function StoriesPage() {
         width={1200}
         height={600}
         className="my-4 rounded"
+        alt="Stories"
       />
       
       <p className="prose-story mb-2 text-sm">
