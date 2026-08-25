@@ -29,7 +29,7 @@ export default function Home() {
       </p>
 
       {showCausath && (
-        <div className="mb-8 text-sm">
+        <div className="mb-8 mt-2 text-sm">
           <p className="text-muted" style={{ color: '#9c9c9c' }}>
             Chess education platform for Indonesian chess players to improve their ELO.
           </p>
