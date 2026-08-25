@@ -24,8 +24,8 @@ export default function Home() {
         >
           Causath
         </button>{' '}
-        and learning how to vibe coding. I'm not sure if you want to read about my{' '}
-        <Link href="/stories">stories</Link>, but if so then go ahead.
+        and teaching myself vibe coding while I'm at it. I don't know if my{' '}
+        <Link href="/stories">stories</Link> are worth your time, but they're here if you want them.
       </p>
 
       {showCausath && (
