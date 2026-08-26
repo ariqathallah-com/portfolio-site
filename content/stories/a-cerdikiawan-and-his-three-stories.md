@@ -1,7 +1,7 @@
 ---
 title: "A Cerdikiawan and His Three Stories"
 date: "2026-08-24"
-excerpt: "A bit about my self and my story."
+excerpt: "A journey."
 tags: ["journey", "lessons"]
 ---
 
