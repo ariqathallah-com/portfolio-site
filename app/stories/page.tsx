@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getAllStoriesMeta } from '@/lib/stories';
 import Image from 'next/image';
+import StoriesList from '@/components/StoriesList';
 
 export const metadata = {
   title: 'Stories',
@@ -36,18 +37,7 @@ export default function StoriesPage() {
           <code className="text-sm">content/stories/</code> to get started.
         </p>
       ) : (
-        <ul className="mt-4 space-y-5">
-          {stories.map((story) => (
-            <li key={story.slug}>
-              <Link href={`/stories/${story.slug}`} className="text-sm font-medium">
-                {story.title}
-              </Link>
-              <div className="text-sm text-muted">
-                {story.date} · {story.excerpt}
-              </div>
-            </li>
-          ))}
-        </ul>
+        <StoriesList stories={stories} />
       )}
     </div>
   );

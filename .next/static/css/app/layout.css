@@ -639,12 +639,18 @@ video {
 .decoration-\[\#B5B5B5\] {
   text-decoration-color: #B5B5B5;
 }
+.decoration-\[\#111111\] {
+  text-decoration-color: #111111;
+}
 .underline-offset-2 {
   text-underline-offset: 2px;
 }
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.filter {
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 :root {
