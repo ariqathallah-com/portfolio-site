@@ -2,7 +2,7 @@
 title: "Chess Industry is Underrated"
 date: "2026-08-25"
 excerpt: "Chess is massive."
-tags: ["lessons"]
+tags: ["business", "chess"]
 ---
 
 Chances are, if you’re not in the chess industry, you probably don’t realize how big the market actually is. 

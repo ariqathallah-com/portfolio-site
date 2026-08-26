@@ -2,7 +2,7 @@
 title: "A Cerdikiawan and His Three Stories"
 date: "2026-08-24"
 excerpt: "A journey."
-tags: ["journey", "lessons"]
+tags: ["journey"]
 ---
 
 If he had to describe himself in one word, he would be called resourceful, or maybe cerdikiawan?
